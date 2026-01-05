@@ -10,4 +10,4 @@ A vanilla web project that lets users increase, decrease, and reset values.
 ```
 python -m http.server 3000
 ```
-- Open (Localhost)[http://localhost:3000] in your browser.
+- Open [Localhost](http://localhost:3000) in your browser.
